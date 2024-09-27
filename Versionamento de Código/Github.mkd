@@ -1,0 +1,50 @@
+# <center>Git</center> 
+
+### Introdução 
+
+GitHub é uma plataforma baseada em Git que oferece funcionalidades adicionais, como hospedagem de repositórios remotos, integração contínua e ferramentas para colaboração em equipe.
+
+
+### Principais Funcionalidades 
+
+* Pull Requests: Uma solicitação para mesclar uma branch em outra, geralmente usada para revisão de código. É um ponto central de colaboração no GitHub, permitindo que desenvolvedores discutam e revisem o trabalho antes de integrá-lo.<br><br>
+* Issues: Ferramenta para gerenciar tarefas, bugs e melhorias no projeto. As issues ajudam a organizar o fluxo de trabalho, atribuindo tarefas aos desenvolvedores e priorizando-as. <br><br>
+* Forks: Cópia de um repositório para um novo repositório sob o controle de um usuário. Permite trabalhar independentemente de um projeto principal e depois enviar contribuições. <br><br>
+* GitHub Actions: Ferramenta de integração contínua (CI) e entrega contínua (CD) para automatizar fluxos de trabalho como testes, builds e deploys.<br><br>
+* GitHub Pages: Recurso que permite hospedar sites estáticos diretamente dos repositórios do GitHub.
+
+
+### Colaboração
+
+O gitHub facilita o trabalho em equipe, onde vários desenvolvedores podem contribuir para o mesmo projeto ao mesmo tempo. É amplamente utilizado para projetos de código aberto. Funciona como uma rede social para desenvolvedores, onde repositórios podem ser favoritados e acompanhados, além de possibilitar que desenvolvedores contribuam para projetos globais.
+
+Além disso, o gitHub oferece suporte a repositórios privados e públicos. Também inclui ferramentas para gerenciar permissões, rastrear vulnerabilidades e garantir a segurança do código.
+
+### Integração de Git com GitHub
+
+Conectar Repositório Local ao GitHub: Após criar um repositório local com git init, é possível conectá-lo a um repositório remoto no GitHub com o comando: git remote add origin <url-do-repositório>. 
+
+Isso permite usar git push para enviar o código local ao GitHub e git pull para obter as atualizações mais recentes.
+
+
+
+### Ciclo de uso com Git e Github
+
+1. Clonar ou inicializar um repositório.
+2. Criar branches para novas funcionalidades.
+3. Fazer commits das mudanças localmente.
+4. Fazer push das mudanças para o repositório remoto no GitHub.
+5. Criar pull requests para revisão.
+6. Mesclar (merge) as mudanças na branch principal após a aprovação.
+
+
+
+Isso faz com que o Git e Github sejam erramentas essenciais no desenvolvimento de software moderno, facilitando o versionamento, a colaboração e a integração contínua.
+
+
+
+
+
+
+
+

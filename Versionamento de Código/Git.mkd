@@ -1,0 +1,43 @@
+# <center>Git</center> 
+
+### Introdução 
+
+Git é um sistema de controle de versão distribuído que permite aos desenvolvedores acompanhar as mudanças no código-fonte de um projeto, colaborar de forma eficiente e manter o histórico de versões. 
+
+
+### Conceitos Básicos
+
+* Controle de Versão: O Git permite rastrear e registrar alterações no código ao longo do tempo, facilitando o retorno a versões anteriores e a resolução de conflitos quando várias pessoas trabalham no mesmo projeto.<br><br>
+* Repositório: Um repositório Git é uma pasta de projeto que contém o código e todo o histórico de alterações. Pode ser:
+    * Local: Repositório no computador do desenvolvedor.
+    * Remoto: Repositório armazenado em um servidor (como no GitHub), permitindo a colaboração entre vários desenvolvedores.<br><br>
+* Branch: É uma linha de desenvolvimento separada do código. A branch principal é geralmente chamada de "main" ou "master", e outras branches podem ser criadas para novas funcionalidades ou correções de bugs, permitindo o desenvolvimento paralelo, sem interferir no código da branch principal.<br><br>
+* Commit: Um commit é uma "foto" do estado do código em um momento específico. Cada commit tem um identificador único (hash), mensagem de descrição e informações sobre as mudanças feitas, sendo usado para salvar o progresso do desenvolvimento e documentar o que foi alterado.<br><br>
+* Staging Area: É uma área intermediária onde as alterações no código são preparadas antes de serem registradas em um commit. Isso permite selecionar quais mudanças vão para o próximo commit.<br><br>
+* Merging: Combina o trabalho de diferentes branches em uma só. Pode gerar conflitos se o mesmo código foi alterado em ambas as branches.<br><br>
+* Rebasing: Reescreve a linha do tempo do projeto, aplicando commits de uma branch sobre outra, resultando em um histórico mais linear.
+
+
+### Comandos do Git
+
+* git init: Inicia um repositório Git em um diretório.
+* git clone: Faz uma cópia de um repositório remoto.
+* git add: Adiciona arquivos ou mudanças à staging area.
+* git commit: Cria um commit com as mudanças adicionadas à staging area.
+* git pull: Atualiza o repositório local com as últimas mudanças do repositório remoto.
+* git push: Envia os commits do repositório local para o repositório remoto.
+* git branch: Gerencia branches (listar, criar ou deletar).
+* git merge: Combina o trabalho de diferentes branches em uma única linha de desenvolvimento.
+* git status: Mostra o estado atual do repositório (quais arquivos foram modificados, etc.).
+* git log: Exibe o histórico de commits.
+
+
+
+
+
+
+
+
+
+
+

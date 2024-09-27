@@ -1,0 +1,27 @@
+# FRAMEWORK CYNEFIN
+
+  FRAMEWORK CYNEFIN  
+
+  * È um framework utilizando em metodologias ágeis, a fim de identificar a natureza de determinado problema e determinar a melhor forma de soluciona-lo. 
+  
+  O Framework Cynefin se divide em alguns cenários: 
+  
+  
+  1. Simples: Aqui as soluções são simples e conhecidas, não necessitando de análises complexas, apenas a aplicação das melhores práticas para resolução de determinado problema. No Scrum, atividades de rotina e processos bem estabelecidos entram nessa categoria.
+  
+  2. Complicado: Aqui entra um pouco mais de dificuldade, existindo uma boa compreensão do problema, mas não tendo a solução clara para ele, assim é necessário o auxilio de um analista ou especialista no assunto. No Scrum, projetos inovadores ou desenvolvimento de novos produtos frequentemente se enquadram aqui.
+  
+  3. Complexo: Nesse cenário, há uma previsibilidade baixa nos resultados de determinada ação, sendo assim necessário a tentativa e erro. No Scrum, projetos inovadores ou desenvolvimento de novos produtos frequentemente se enquadram aqui.
+  
+  4. Caótico: Nesse cenário, são necessárias ações imediatas para solução do problema, tendo a vista que o momento será de urgência e caos. o Scrum, isso poderia se aplicar a emergências ou crises, onde as equipes precisam ser rápidas e eficazes para responder e reestabelecer controle.
+  
+  5. Desordem: Quando não se tem certeza de qual cenários seu problema se enquadra.
+
+
+### Valores de um Manifesto Ágil 
+  
+![alt text](image.png)
+
+### Principios de um Manifesto Ágil 
+
+![alt text](image-1.png)

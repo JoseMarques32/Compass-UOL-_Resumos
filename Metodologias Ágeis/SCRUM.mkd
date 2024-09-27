@@ -1,0 +1,101 @@
+# <center>SCRUM</center> 
+
+### Introdução 
+
+Scrum é um framework com a qual as pessoas podem resolver problemas complexos e adptáveis, enquanto entregam produtos de forma criativa, organizada e com o maior valor possível. É amplamente utilizada no desenvolvimento de projetos, a fim de obter um trabalho com alto desempenho e organização.
+
+
+### Artefatos do Scrum
+
+* Product Backlog: Lista priorizada de funcionalidades desejadas no produto. É gerenciada pelo Product Owner.
+* Sprint Backlog: Conjunto de itens do Product Backlog que a equipe se compromete a concluir em uma sprint.
+* Incremento: Conjunto de funcionalidades ou melhorias que são entregues ao final de cada Sprint e que agregam valor ao produto.
+
+
+### Pilares do Scrum
+
+* Transparência: Garante que os aspectos do processo que afetam o resultados sejam visíveis a todos o envolvidos.
+* Inspeção: Os processos devem ser totalmente inspecionados com uma determinada frequência suficiente para que as variações possam ser detectadas.
+* Realizar ajustes quando o processo sofrer variações que afetem os resultados desejados, fora dos limites aceitáveis.
+
+
+### Papéis e Responsabilidades
+<strong>_Scrum Master_</strong>: Facilita o processo do Scrum, removendo impedimentos e garantindo que a equipe siga as práticas ágeis. 
+<center><strong> Características</strong> </center><br>
+
+
+* Possui amplo conhecimento do Framework Scrum;
+* Promove e apoia o Scrum;
+* Possuir liderança ao time Scrum;
+*  Ter visão de progresso e de mudanças;
+<br><br>
+
+ <center><strong> Responsabilidades</strong> </center><br>
+
+* Liderar e apoiar na adoção do Scrum;
+* Planejar a implementação do Scrum na organização;
+* Ser motivador de mudanças para implementar uma melhor produtividade do time Scrum .
+* Trabalhar com outros Scrum Masters(caso existam!), para aumentar a aceitação e efetividade do Scrum.<br><br>
+------------------ 
+<br>
+<strong>Product Owner:</strong> Responsável por definir as funcionalidades do produto e garantir que o backlog do produto esteja sempre atualizado e priorizado.<br><br>
+
+
+<center><strong> Características </strong> </center><br>
+
+* Ter ampla visão de negócios
+* Saber gerenciar as necessidades e interesses de todas as partes internas  interessadas.
+* Capacidade de interpretação e tradução das necessidades em regras de negócios.
+* Ter habilidade de negociação e didática para explicar as necessidades ao time.
+  
+
+ <center><strong> Responsabilidades </strong> </center><br>
+
+* Gerenciar o Produckt Backlog;
+* Avaliar a viabilidade e garantir a entrega do produto/serviço;
+* Gerenciar a entrada de novos requisitos e priorização;
+* Definir as metas das Sprints;
+-------------------
+<br>
+
+<strong>Time de Desenvolvimento:</strong> Equipe multidisciplinar que realiza o trabalho de desenvolvimento, auto-organizada e focada na entrega de incrementos do produto.
+
+<center><strong> Características </strong> </center><br>
+
+* Ter conhecimento do Scum;
+* Colaboração, Motivação e Proatividade;
+* Orientado por objetivos(Meta da Sprint).
+* Possuir entedimentos claros dos requisitos.
+  
+
+ <center><strong> Responsabilidades </strong> </center><br>
+
+* Desenvolver o Backlog da Sprint e o gráfico Burndown;
+* Desenvolver a lista de tarefas baseada nos PBI(Product Itens Backlog) aprovadas pelo Product Owner;
+* Identificar riscos e implementar ações para mitiga-los;
+* Participar do projeto e da Retrospectiva da Sprint;
+-------------------
+<br>
+
+## Sprints
+
+Período de trabalho fixo em que a equipe desenvolve um incremento do produto. 
+
+<center><strong> Características </strong> </center><br>
+
+* Dura de 1 a 4 semanas;
+* São planejadas em TIMEBOX, sempre possuindo uma data de inicio fixas, devem possuir a mesma duração.
+* Uma Sprint consiste de Sprint Planning, Daily Scrum, Sprint Review e Sprint Retrospective. 
+
+    * Sprint Planning: Reunião no início de cada Sprint onde a equipe define o que será feito e como será feito.
+    * Daily Scrum: Reunião diária curta (máx. 15 min) para sincronizar atividades e identificar obstáculos.
+    * Sprint Review: Reunião no final da Sprint onde o time apresenta o que foi desenvolvido.
+    * Sprint Retrospective: Reunião de reflexão para avaliar o que foi bem, o que pode melhorar e como aperfeiçoar o processo na próxima Sprint.
+
+
+
+
+
+
+
+
