@@ -10,7 +10,7 @@ Resumos feitos acerca dos conteúdos estudados durante o estágio Blockchain & R
 
 :pushpin: [Versionamento de código](https://github.com/JoseMarques32/Compass-UOL-_Resumos/blob/main/Versionamento%20de%20C%C3%B3digo/Git.mkd);
 
-:pushpin: [Segurança da Informação]();
+:pushpin: [Segurança da Informação](https://github.com/JoseMarques32/Compass-UOL-_Resumos/blob/main/Seguranca%20da%20Informacao/SegurancaI.mkd);
 
 :pushpin: [Blockchain]();
 
