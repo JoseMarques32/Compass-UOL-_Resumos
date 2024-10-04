@@ -1,0 +1,84 @@
+# <center>Segurança da Informação</center> 
+
+### O que é segurança da informação?
+
+De acordo com o NIST (National Institute of Standards and Technology) a segurança da Informação é a proteção de informações e sistemas de informação contra o acesso, o uso, a divulgação, a interrupção, a modificação ou a destruição não autorizados, a fim de fornecer confidencialidade, integridade e disponibilidade.
+
+
+### Pilares da Segurança da Informação 
+
+* Confidencialidade: Proteger a informação de acessos não autorizaodos, evitando situações de ataques por acesso indevido, com o objetivo de controlar o acesso por múltiplos fatores de autenticação e criptografias.<br><br>
+* Integridade: Mantém as características originais dos dados, conforme sua criação. <br><br>
+* Disponibilidade: Os dados precisam estar disponíveis para o que for necessário, quando precisarmos. Isso demanda a estabilidade e acesso permanente ao ambiente e aos sistemas. <br><br>
+
+
+### Classificação
+
+Toda informação deve ser classificada, seja física ou lógica, de acordo com sua sensibilidade, criticidade e valor. A classificação deve tratar as informações durante o seu ciclo de vida, ou seja, sua criação, edição, compartilhamento, armazenamento e descarte.
+
+Essa classificação é importante para aplicar a devida proteção das informações e reduzir a probabilidade de ocorrer incidentes.
+
+### Níveis de Classificação
+
+* Confidencial: São informações altamente sigilosas e que não podem ser divulgadas para evitar danos à empresa, terceiros, funcionários e clientes. Seu uso requer medidas de controle e proteção rigorosos contra acessos, cópias, reproduções ou divulgações não autorizados<br><br>
+
+* Restrita: São informações exclusivas de alguns profissionais e/ou determinadas áreas. Significa que nem todos têm acessos à elas, pois os dados desta categorias são disponibilizados apenas aos destinatários nos quais você delega confiança para tratar do assunto. <br><br>
+
+* Interna: São informações que competem aos profissionais, estagiários, prestadores de serviços da empresa e precisam de cuidados para evitar a divulgação ao público externo.
+
+* Pública: São informações que podem ser divulgadas sem restrições para o público em geral, incluindo clientes, fornecedores, imprensa, concorrentes, entre outros. 
+
+
+
+
+### Engenharia Social
+
+Engenharia Social é a habilidade de conseguir acesso a informações ou áreas importantes de algo ou alguém através de habilidades de persuasão. 
+
+O atacante se aproveita da falta de conhecimento, da boa vontade e simpatia da sua vítima para convencê-la a passar informações ou tomar ações de forma que lhe pareçam legítimas.
+
+### Táticas de abordagem
+
+* Baiting: Uma isca física ou digital como um pendrive ou download, podem trazer malwares para o computador, ganhando acesso ao sistema.<br><br>
+
+* Phising: O atacante cria conteúdo enganoso muito próximo de algo legítimo e confiável, a fim de obter credenciais ou instalar malwares, muito comum com emails, sms ou chamadas de voz. <br><br>
+
+* Dumpster Diving: Quando ocorrer o descarte sem cuidados, os atacantes podem encontrar relatórios inteiros, discos removiveis entre outros tipos de mídia com informações de todos os níveis de classificação. <br> <br> 
+
+
+### Formas de Prevenção
+
+* Não baixar arquivos e anexos em e-mails suspeitos;<br><br>
+
+* Descartar corretamente documentos e equipamentos<br><br>
+
+* Não responder e nem interagir com mensagens de texto suspeitas. <br> <br> 
+
+
+
+
+### IA Generativa
+
+Inteligência Artifical generativa é um subcampo da IA que se concentra na criação de novos conteúdos, dados ou informações como texto, imagens, vídeos, entre outros..., a partir de entradas existentes.
+
+
+#### Como funciona?
+
+Modelos de IA Generativa aprendem a reconhecer padrões e características dos dados de treinamento. Depois de treinados, eles podem gerar novos exemplos de dados que seguem esses padrões, como criar textos realistas, imagens ou outras formas de mídia.
+
+#### Como proteger os dados e informações
+
+* Remover dados pessoais, senhas ou tokens das consultas que enviar; <br> <br>
+* Utilizar mascaramentos de dados; <br> <br>
+* Troque nas consultas qualquer dado real de clientes ou da empresa, como nomes próprios das empresas, comentários de código, casos reais;
+
+
+
+
+#### Controle mínimos de segurança
+
+* Homologação para validar os controles técnicos; <br> <br>
+* Análise de riscos; <br> <br>
+* Realizar treinamentos obrigatórios e participar das ações de capacitação e conscientização sobre o tema;
+
+
